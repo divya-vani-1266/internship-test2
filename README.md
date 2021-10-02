@@ -1,1 +1,3 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+used Jupyter Notebook software
+programing language used is python 
+by using pandas and DataFrame concept it is done
